@@ -5,10 +5,15 @@
 package PBO1;
 import java.text.DecimalFormat;
 
-/**
- *
- * @author HP
+/*
+ * @author
+ * NAMA    : Naufal Arif Maulana
+ * KELAS   : PBO12
+ * NIM     : 23176026
+ * Deskripsi Program : Program ini berisi program untuk menampilkan 
+ *  Target saldo tabungan
  */
+
 
 public class TargetSaldoTabungan {
     public static void main(String[] args) {
